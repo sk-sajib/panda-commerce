@@ -1,0 +1,29 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.banner-bg{
+    background-color: #FEEAE9;
+    border-radius: 5px;
+}
+
+.carousel-item{
+    padding: 20px 60px;
+}
+.carousel-indicators .active {
+    background: #FF3A88;
+}
+.price{
+    color: #FF136F;
+}
+
+
+.buy-btn {
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 7px 32px;
+    background-image: linear-gradient(to bottom, #FF4C93, #FF2178);
+    border-radius: 5px;
+    margin-top: 12px;
+}
